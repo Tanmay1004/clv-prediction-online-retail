@@ -44,7 +44,6 @@ To build a predictive model for Customer Lifetime Value (CLV) using behavioral m
 ## 📁 Files
 
 - `Project.ipynb` – Jupyter notebook with all code and analysis
-- `online_retail_II.xlsx` – Dataset file
 
 ## 🧠 Business Insight
 
